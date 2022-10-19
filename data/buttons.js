@@ -1,4 +1,4 @@
-const ButtonsData = [
+const buttonsData = [
   {
     text: 'Email',
     icon: 'fa-solid fa-envelope',
@@ -15,4 +15,4 @@ const ButtonsData = [
   },
 ]
 
-export default ButtonsData
+export default buttonsData
