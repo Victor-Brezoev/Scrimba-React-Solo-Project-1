@@ -1,3 +1,7 @@
+/**
+ * Use in Buttons.js
+ */
+
 const buttonsData = [
   {
     text: 'Email',

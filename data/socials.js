@@ -1,3 +1,7 @@
+/**
+ * Use in Footer.js
+ */
+
 const socialsData = [
   {
     type: 'twitter',
